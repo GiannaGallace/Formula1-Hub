@@ -185,16 +185,16 @@ a:hover {
 }
 
 .carousel-inner{
-    max-height: 600px !important;
+    max-height: 700px !important;
     background-color: #000000;
 }
 .carousel-item img{
-    height: 600px !important;
+    height: 700px !important;
     object-fit: cover;
     object-position: center;
 }
 .carousel-control-prev, .carousel-control-next{
-    height: 600px !important;
+    height: 700px !important;
 }
 
 .carousel-inner .carousel-item:nth-child(2) img{
